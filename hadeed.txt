@@ -1,4 +1,4 @@
-# Hadeed's Readme
+# Hadeed
 
 *[Installation](#installation)
 *[Usage](#usage)
@@ -6,13 +6,13 @@
 *[Credits](#credits)
 *[License](#license)
 # Installation
-Currently learning
+ye
 ## Usage
-quite simple
+no
 ## Contribution
 undefined
 ### Instructions
-it's in my readme
+yes
 ## Credits
 undefined
 ## License

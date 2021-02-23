@@ -102,7 +102,7 @@ createNewFile(title,template);
 //creating our createNewFile function
 function createNewFile(fileName,data){
 //fs
-fs.writeFile(`./${fileName.toLowerCase().split(' ').join('')}.nd`,data,(err)=>{
+fs.writeFile(`./${fileName.toLowerCase().split(' ').join('')}.txt`,data,(err)=>{
     if(err){
         console.log(err)
     }
